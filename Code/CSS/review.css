@@ -1,0 +1,10 @@
+﻿.contentrv img {
+	float: left;
+	margin-right: 10px;
+}
+.image div {
+	display: inline-block;
+	margin-bottom: 15px;
+	font-family: 'Baloo Bhaijaan 2', cursive;
+	
+}

@@ -1,0 +1,27 @@
+﻿.left, .right {
+	height: 430px;
+	overflow: auto;
+}
+#slide {
+	overflow: hidden;
+	height: 430px;
+}
+.slideshow {
+	width: inherit;
+	height: 3520px;
+	-webkit-animation: slide 20s ease infinite;
+}
+.slideshow img {
+	margin-bottom: 10px;
+}
+@keyframes slide {
+	10% {margin-top: 0px;}
+   	12% {margin-top: -440px;}
+	32% {margin-top: -440px;}
+  	34% {margin-top: -880px;}
+	54% {margin-top: -880px;}
+	56% {margin-top: -1320px;}
+	76% {margin-top: -1320px;}
+	78% {margin-top: -1760px;}
+	98% {margin-top: -1760px;}
+}

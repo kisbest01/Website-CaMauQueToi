@@ -1,0 +1,16 @@
+﻿.left, .content {
+	height: 550px;
+	overflow: auto;
+}
+.content p {
+	padding: 10px;
+	font-size: 18px;
+	font-family: 'Baloo Bhaijaan 2', cursive;
+}
+.image {
+	text-align: center;
+}
+#main img {
+	padding: 10px;
+	
+}
